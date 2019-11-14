@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+}
+
+.nav {
+    background-color: #FAFAFA;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+}
+
+ul {
+    list-style-type: none;
+}
